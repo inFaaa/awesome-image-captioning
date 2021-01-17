@@ -345,9 +345,8 @@ Markdown format:
 
 #### *`AAAI 2021`*
 
-[Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://arxiv.org/pdf/2012.07061.pdf) - Ji et al, `AAAI 2020`.
+- [Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://arxiv.org/pdf/2012.07061.pdf) - Ji et al, `AAAI 2021`.
 
-[Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network](https://arxiv.org/pdf/2012.07061.pdf) - Ji et al, `AAAI 2020`.
 
 ## Dataset
 
